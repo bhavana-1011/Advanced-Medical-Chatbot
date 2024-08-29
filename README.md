@@ -16,7 +16,8 @@ Before you can start using the Llama2 Medical Bot, make sure you have the follow
 1. Clone this repository to your local machine.
 
     ```bash
-    
+    https://github.com/bhavana-1011/Advanced-Medical-Chatbot.git
+    cd Advanced-Medical-Chatbot
     ```
 
 2. Create a Python virtual environment (optional but recommended):
